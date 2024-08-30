@@ -52,13 +52,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "introductionddd",
-        "getting started",
-        "user roles",
-        "Features and functionality",
-        "faq",
-        "Troubleshooting",
-        "Contact Support"
+        "introduction",
+        "quickstart",
+        "development"
       ]
     },
     {
