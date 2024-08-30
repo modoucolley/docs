@@ -33,18 +33,18 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "FAQ",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Troubleshooting",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
+      "name": "Contact Support",
+      "icon": "support",
       "url": "https://mintlify.com/blog"
     }
   ],
@@ -105,7 +105,9 @@
         "api-reference/endpoint/delete"
       ]
     }
+    
   ],
+
   "footerSocials": {
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
