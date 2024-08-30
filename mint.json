@@ -64,6 +64,23 @@
       ]
     },
     {
+      "group": "User Roles",
+      "pages": [
+        "superadmin",
+        "analyst"
+      ]
+    },
+    {
+      "group": "Features and Functionality",
+      "pages": [
+        "dashboardoverview",
+        "navigatingtheinterface",
+        "keyfunctionalitiesforanalysts",
+        "keyfunctionalitiesforsuperadmins"
+      ]
+    },
+
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
