@@ -50,9 +50,10 @@
   ],
   "navigation": [
     {
-      "group": "Get Starteddd",
+      "group": "Get Started",
       "pages": [
         "introduction",
+        "getting_started",
         "quickstart",
         "development"
       ]
