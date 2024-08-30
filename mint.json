@@ -50,10 +50,10 @@
   ],
   "navigation": [
     {
-      "group": "introduction",
+      "group": "Introduction",
       "pages": [
-        "overview-of-the-application",
-        "key-features"
+        "overview",
+        "keyfeatures"
       ]
     },
     {
