@@ -51,14 +51,10 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
+       "pages": [
         "introduction",
-        "getting started",
-        "user roles",
-        "Features and functionality",
-        "faq",
-        "Troubleshooting",
-        "Contact Support"
+        "quickstart",
+        "development"
       ]
     },
     {
