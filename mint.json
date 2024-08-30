@@ -35,12 +35,12 @@
     {
       "name": "Troubleshooting",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://gomindz.mintlify.app/troubleshooting"
     },
     {
       "name": "Contact Support",
       "icon": "phone",
-      "url": "https://mintlify.com/blog"
+      "url": "https://gomindz.mintlify.app/support"
     }
   ],
   "navigation": [
