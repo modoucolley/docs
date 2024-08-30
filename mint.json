@@ -50,10 +50,16 @@
   ],
   "navigation": [
     {
+      "group": "introduction",
+      "pages": [
+        "overview-of-the-application",
+        "key-features"
+      ]
+    },
+    {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "getting_started",
         "quickstart",
         "development"
       ]
