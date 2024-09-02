@@ -53,10 +53,8 @@
     {
       "group": "Features and Functionality",
       "pages": [
-        "dashboardoverview",
-        "admindashboardoverview",
-        "keyfunctionalitiesforanalysts",
-        "keyfunctionalitiesforsuperadmins"
+        "pages/features/dashboardoverview",
+        "pages/features/admindashboardoverview"
       ]
     },
 
