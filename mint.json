@@ -61,10 +61,10 @@
     {
       "group": "Essentials",
       "pages": [
-        "faq",
-        "troubleshooting",
-        "support",
-        "userdictionary"
+        "pages/essentials/faq",
+        "pages/essentials/troubleshooting",
+        "pages/essentials/support",
+        "pages/essentials/userdictionary"
       ]
     }
 
@@ -72,8 +72,8 @@
   ],
 
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://gomindz.com/mintlify",
+    "github": "https://github.com/gomindz",
+    "linkedin": "https://www.linkedin.com/company/gomindz"
   }
 }
