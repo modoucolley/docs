@@ -33,8 +33,7 @@
     {
       "group": "Introduction",
       "pages": [
-        "pages/introduction/overview",
-        "pages/introduction/keyfeatures"
+        "pages/introduction/overview"
       ]
     },
     {
