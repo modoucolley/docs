@@ -30,7 +30,7 @@
     {
       "name": "FAQ",
       "icon": "book-open-cover",
-      "url": "https://gomindz.mintlify.app/faq"
+      "url": "/faq"
     },
     {
       "name": "Troubleshooting",
