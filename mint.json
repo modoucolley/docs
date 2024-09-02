@@ -27,21 +27,7 @@
   },
   
   "anchors": [
-    {
-      "name": "FAQ",
-      "icon": "book-open-cover",
-      "url": "/faq"
-    },
-    {
-      "name": "Troubleshooting",
-      "icon": "slack",
-      "url": "https://gomindz.mintlify.app/troubleshooting"
-    },
-    {
-      "name": "Contact Support",
-      "icon": "phone",
-      "url": "https://gomindz.mintlify.app/support"
-    }
+  
   ],
   "navigation": [
     {
@@ -73,10 +59,17 @@
         "keyfunctionalitiesforanalysts",
         "keyfunctionalitiesforsuperadmins"
       ]
+    },
+
+    {
+      "group": "Essentials",
+      "pages": [
+        "faq",
+        "troubleshooting",
+        "support"
+      ]
     }
 
-    
-    
     
   ],
 
