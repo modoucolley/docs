@@ -39,15 +39,15 @@
     {
       "group": "Get Started",
       "pages": [
-        "creatinganaccount",
-        "loggingin"
+        "pages/gettingstarted/creatinganaccount",
+        "pages/gettingstarted/loggingin"
       ]
     },
     {
       "group": "User Roles",
       "pages": [
-        "superadmin",
-        "analyst"
+        "pages/userroles/superadmin",
+        "pages/userroles/analyst"
       ]
     },
     {
