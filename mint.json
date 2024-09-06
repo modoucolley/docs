@@ -51,13 +51,7 @@
         "pages/userroles/analyst"
       ]
     },
-    {
-      "group": "Features and Functionality",
-      "pages": [
-        "pages/features/dashboardoverview",
-        "pages/features/admindashboardoverview"
-      ]
-    },
+    
 
     {
       "group": "Essentials",
