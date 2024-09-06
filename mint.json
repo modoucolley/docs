@@ -44,7 +44,7 @@
       ]
     },
     {
-      "group": "User Roles",
+      "group": "User Roles [Manual]",
       "pages": [
         "pages/userroles/superadmin",
         "pages/userroles/admin",
