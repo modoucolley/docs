@@ -47,6 +47,7 @@
       "group": "User Roles",
       "pages": [
         "pages/userroles/superadmin",
+        "pages/userroles/admin",
         "pages/userroles/analyst"
       ]
     },
